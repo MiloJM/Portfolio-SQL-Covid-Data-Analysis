@@ -6,6 +6,14 @@ I used this data in order to get some practical experience working with many of 
 
 I have created a series of queries ranging from fairly simple to moderately complex. I attempt to glean meaningful observations related to the covid crisis regarding population size, total cases, total deaths, and how these data points relate across countries and continents.  
 
+
+
+Data Obtained from https://ourworldindata.org/covid-deaths
+'Courtesy of John Hopkins University'
+All information based on data through 2-23-23
+
+
 This analysis was done with help from a youtube tutorial from 'Alex the Analyst'. 
+https://youtu.be/qfyynHBFOsM
 
 
